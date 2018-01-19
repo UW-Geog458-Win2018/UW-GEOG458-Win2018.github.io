@@ -42,3 +42,6 @@ layout: layout
 
 #### Golden Triangles by Andy Kong & Calvin Hong
 ![A shape](http://UW-GEOG458-Win2018.github.io/galleries/shapes/AndyKong-CalvinHong-Turtle.svg)
+
+#### Shape by Laura!
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/seniowl-gallery.svg)
