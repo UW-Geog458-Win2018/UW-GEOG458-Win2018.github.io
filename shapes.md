@@ -31,4 +31,4 @@ layout: layout
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/KimVo_AlexandraCampanilla.svg)
 
 #### Shapes by Daniel Kim & Menno Sennesael
-![A shape](https://github.com/UW-Geog458-Win2018/UW-GEOG458-Win2018.github.io/blob/master/galleries/shapes/dtm96-gallery.svg)
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/dtm96-gallery.svg)
