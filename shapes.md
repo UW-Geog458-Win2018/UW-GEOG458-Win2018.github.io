@@ -53,3 +53,6 @@ layout: layout
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/andygongenius-gallery.svg)
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/sh2wa-gallery.svg)
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/sh2wa-gallery2.svg)
+
+#### Shape by Henry Tran
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/henryvt-gallery.svg)
