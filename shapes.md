@@ -46,5 +46,5 @@ layout: layout
 #### Shape by Laura!
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/seniowl-gallery.svg)
 
-#### Shape by Yuanyuan Lin & Xiaolun Gong
-![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/andygongenius-gallery.svg)
+#### Shape by Jinhyun Kim
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/smilejin92-gallery.svg)
