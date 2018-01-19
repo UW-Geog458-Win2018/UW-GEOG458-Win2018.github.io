@@ -48,3 +48,6 @@ layout: layout
 
 #### Shape by Jinhyun Kim
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/smilejin92-gallery.svg)
+
+#### Shape by Yuanyuan Lin & Xiaolun Gong
+![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/andygongenius-gallery.svg)
