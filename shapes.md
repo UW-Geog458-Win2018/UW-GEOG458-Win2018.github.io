@@ -32,3 +32,6 @@ layout: layout
 
 #### Shapes by Daniel Kim & Menno Sennesael
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/dtm96-gallery.svg)
+
+#### Shapes by Utako Kase & Chianson Siu
+![Random](http://uw-geog458-win2018.github.io/galleries/shapes/Chianson_Utako_turtle.svg)
