@@ -17,6 +17,10 @@ layout: layout
 #### Work by Frank & Jonathan
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/frankhan95_JonathanAbarcarJr.svg)
 
+#### Work by Daniel Davis, Eddy Tamayo, Luis Del Toro
+![Eddygallery](http://uw-geog458-win2018.github.io/galleries/shapes/eddygallery.svg)
+![davisdan](http://uw-geog458-win2018.github.io/galleries/shapes/davisdan-gallery.svg)
+
 #### Shapes by Sheena & Marvin!
 ![A shape](http://uw-geog458-win2018.github.io/galleries/shapes/sheenaw-gallery.svg)
 
